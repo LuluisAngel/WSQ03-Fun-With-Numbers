@@ -1,5 +1,5 @@
 # WSQ03-Fun-With-Numbers
-Here's the code for that activity
+Here's the code for that activity:
 
 	#include <iostream>
 
