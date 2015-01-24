@@ -1,11 +1,11 @@
 # WSQ03-Fun-With-Numbers
 Here's the code for that activity
 
-#include <iostream>
+	#include <iostream>
 
-using namespace std;
+	using namespace std;
 
-int main(){
+	int main(){
 	
 	int x, y;
 
