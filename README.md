@@ -1,6 +1,8 @@
 # WSQ03-Fun-With-Numbers
 Here's the code for that activity:
 
+	//Luis Angel Aguilar Carrillo A01225421
+
 	#include <iostream>
 
 	using namespace std;
